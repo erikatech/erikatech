@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Erika 👋
+- I'm a Frontend Engineer based in Japan.
+- I’m currently working on website with WordPress.
+- Focusing on becoming a better developer.
 
-<!--
-**erikatech/erikatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently learning
+I’m currently learning: `React` `Next.js` `TypeScript`
 
-Here are some ideas to get you started:
+### ⚡ Fun Facts
+- Frieren is my favorite anime.
+- I've been into NFT lately, especially supporting [Sofa Vision](https://opensea.io/ja/collection/sofa-vision) and [CNP](https://opensea.io/ja/collection/cryptoninjapartners-v2).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📨 Contact
+- <erika.nishimura.tech@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/erikanishimura-jp/)
+
+
+### 👩‍💻 Github status
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=erikatech&theme=material-palenight)
+
+
+### 🐙 Github status
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=erikatech&theme=material-palenight)
