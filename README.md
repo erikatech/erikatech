@@ -27,3 +27,5 @@ I’m currently learning: `React` `Next.js` `TypeScript`
 ## 🐙 Github status
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=erikatech&theme=material-palenight)
+
+![frieren](frieren.jpg) 
