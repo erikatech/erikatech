@@ -1,5 +1,3 @@
-![frieren](frieren.jpg) 
-
 ### Hi, I'm Erika 👋
 
 - I'm a Frontend Engineer based in Japan.
