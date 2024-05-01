@@ -13,11 +13,6 @@ I’m currently learning: `React` `Next.js` `TypeScript`
 - Frieren is my favorite anime.
 - I've been into NFT lately, especially supporting [Sofa Vision](https://opensea.io/ja/collection/sofa-vision) and [CNP](https://opensea.io/ja/collection/cryptoninjapartners-v2).
 
-## 📨 Contact
-
-- <erika.nishimura.tech@gmail.com>
-- [LinkedIn](https://www.linkedin.com/in/erikanishimura-jp/)
-
 
 ## 👩‍💻 Github status
 
